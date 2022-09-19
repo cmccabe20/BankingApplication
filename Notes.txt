@@ -1,0 +1,5 @@
+  theres an issue with the run command i tried to run the sample code and it auto added a new run command now it bugs out it was something in the shell tab cause I typed run TestTV.java and it said "not found" and added that command
+  but it also messes with the banking application code when we run it as well now
+idk how to delete that run command it installed
+
+  ill look into it, maybe i'll move the sample codes to somewhere else
